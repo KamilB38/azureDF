@@ -1,0 +1,9 @@
+{
+	"name": "df-kamiltest1",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b9d3db91-8096-448d-8929-07e77e29117b",
+		"tenantId": "a398fcff-8d2b-4930-a7f7-e1c99a108d77"
+	}
+}
